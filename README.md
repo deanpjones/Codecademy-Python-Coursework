@@ -8,8 +8,7 @@ TIP:
 		(None, one, many)?				[None, 1, [1, 2, 3]]
 		-CLASS, make sure all the METHODS (are looking in the BASE, root class being used)
 		
-		
-# (I am Dean)(Anagram)(Idea man)	
+			
 		
 PYTHON (CODE ACADEMY) JUL.17 - OCT.2, 2018 (INTENSIVE)($199)
 
