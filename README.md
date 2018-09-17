@@ -1,6 +1,5 @@
-***************************************
-*** Programming with Python (NOTES) ***
-***************************************
+## Programming with Python (NOTES)
+
 
 		
 TIP:
